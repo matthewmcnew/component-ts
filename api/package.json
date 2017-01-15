@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "users": "file:../users"
+  },
+  "devDependencies": {
+    "axios": "0.15.3",
+    "typescript": "2.1.5"
+  }
+}
