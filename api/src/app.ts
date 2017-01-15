@@ -1,4 +1,4 @@
-import {User} from "users/src";
+import {User} from "users";
 
 class App {
 
