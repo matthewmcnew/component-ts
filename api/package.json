@@ -11,7 +11,7 @@
     "users": "file:../users"
   },
   "devDependencies": {
-    "axios": "0.15.3",
+    "axios": "0.19.2",
     "typescript": "2.1.5"
   }
 }
